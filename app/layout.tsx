@@ -3,8 +3,8 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Compute — Autonomous intelligence at scale',
-  description: 'Build, deploy, and orchestrate autonomous AI agents across your compute stack.',
+  title: 'VERTEX — Autonomous Algorithmic Trading & High-Frequency Execution',
+  description: 'Deploy autonomous quantitative trading agents, smart order routing swarms, and deterministic pre-trade risk guardrails across global liquidity venues with sub-microsecond latency.',
   generator: 'v0.app',
   icons: {
     icon: [
